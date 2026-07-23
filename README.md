@@ -27,4 +27,6 @@ An STM32-based embedded application implementing a dual-counter system with pers
 
 ## Demo Video
 
-![Video](7-SEGMENT_DEMO.mp4)
+A complete demonstration of the project is available in the repository.
+
+**File:** `7-SEGEMENT_DEMO.mp4`
