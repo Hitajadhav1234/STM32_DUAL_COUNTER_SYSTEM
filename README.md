@@ -6,6 +6,7 @@ An STM32-based embedded application implementing a dual-counter system with pers
 | Component | Specification |
 |-----------|--------------|
 | Microcontroller | STM32G030F6P6 (ARM Cortex-M0+) |
+| Display Driver | 74HC595 Serial-In Parallel-Out Shift Register |
 | Development Environment | STM32CubeIDE |
 | Configuration Tool | STM32CubeMX |
 | Programming Language | Embedded C |
