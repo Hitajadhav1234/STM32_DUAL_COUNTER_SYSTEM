@@ -20,10 +20,10 @@ An STM32-based embedded application implementing a dual-counter system with pers
 ## Project Demonstration
 
 ### Counter Operation
-![Demo 1](Images/DEMO1.png)
+![Demo 1](DEMO1.png)
 
 ### Dual Operational Mode
-![Demo 2](Images/DEMO2.png)
+![Demo 2](DEMO2.png)
 
 ## Demo Video
 
