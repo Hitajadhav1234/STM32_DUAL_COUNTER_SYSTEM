@@ -27,4 +27,4 @@ An STM32-based embedded application implementing a dual-counter system with pers
 
 ## Demo Video
 
-![Demo 2](7-SEGMENT_DEMO.mp4)
+![Video](7-SEGMENT_DEMO.mp4)
